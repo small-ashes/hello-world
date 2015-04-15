@@ -1,0 +1,42 @@
+body {
+    background-color: #577C7B;
+}
+
+p {
+    color: purple;
+    font-family: "comic sans ms";
+    font-size: 30px;
+    text-shadow: 5px 5px 3px #B294BB;
+}
+
+p1 {
+	color: black;
+	font-family: "times new roman";
+	font-size: 15px;
+	font-stretch: expanded;
+}
+
+span1 {
+    color: #ffffff;
+    font-size: 60px;
+    font-family: "comic sans ms";   
+    background-color: #643378;
+    border-left: 10px dotted orange;
+    border-right: 10px dotted yellow;
+}
+
+span2 {
+    color: #ffffff;
+    font-size: 60px;
+    font-family: "comic sans ms";   
+    background-color: #1290CF;
+    border-left: 10px double green;
+    border-right: 10px double red;
+}
+
+h1 {
+    color: purple;
+    font-family: "comic sans ms";
+    font-size: 30px;
+    text-shadow: 5px 5px 3px #ffffff;
+}
